@@ -4,3 +4,4 @@ Notebooks are based on [Python Cheat Sheet](http://ehmatthes.github.io/pcc/cheat
 
 1. [01 - Introduction](https://github.com/sujee81/Python-Cheat-Sheet/blob/master/01%20-%20Introduction.ipynb)
 2. [02 - Lists](https://github.com/sujee81/Python-Cheat-Sheet/blob/master/02%20-%20Lists.ipynb)
+3. [03 - 20Dictionaries](https://github.com/sujee81/Python-Cheat-Sheet/blob/master/03%20-%20Dictionaries.ipynb)
